@@ -6,6 +6,7 @@ import os
 import base64
 from Crypto.Cipher import AES
 import shutil
+
 import sys
 import tempfile
 import pyautogui
